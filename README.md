@@ -1,4 +1,9 @@
-------------Readme update krlo as per resumeProject.
+------------All tasks for this resume project resumeProject:
+1. list this project in resume
+2. first watch the demo video of Harsha HL & read this readme to make yr demo video
+3. write its description in resume and add project and video link.
+4. update the readme here
+
 
 
 # File Compression Using Huffman Coding
