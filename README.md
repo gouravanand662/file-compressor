@@ -1,4 +1,4 @@
-Readme update krlo as per resumeProject.
+------------Readme update krlo as per resumeProject.
 
 
 # File Compression Using Huffman Coding
